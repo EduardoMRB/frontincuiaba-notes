@@ -16,14 +16,14 @@ Criado pelo Yahoo! para resolver problemas de CSS no Yahoo! Mail.
 
 #### Cinco Categorias
 
-##### base
+##### Base
 * Sem seletores com classes ou ids
 * CSS Reset ou normalize.css
 
 ##### Layout
 * Toda estrutura não repetida do projeto
 
-#####  Module
+##### Module
 * Componentes (botões, tabs, etc)
 
 ##### State
